@@ -1,16 +1,8 @@
 # AreyouMeta? 
 
-#### We aim to develop an assay that can differentiate between melanoma cells with high and low metastatic properties. Distinguishing metastatic potential is the ultimate goal, yet a number of secondary quantitative analyses may also be of interest.
-
-## Please cite our work -- here is the ICMJE Standard Citation:
-
-### ...and a link to the DOI:
+#### We developed an assay that can differentiate between melanoma cells with high and low metastatic properties!
 
 ## Awesome Logo
-
-### You can make a free DOI with zenodo <link>
-
-## Website (if applicable)
 
 ## Intro statement
 
@@ -23,6 +15,8 @@
 Overview Diagram
 
 # How to use <this software>
+
+## Run xxx
 
 # Software Workflow Diagram
 
