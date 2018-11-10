@@ -3,7 +3,7 @@
 #### We developed an assay that can differentiate between melanoma cells with high and low metastatic properties!
 
 ## Awesome Logo
-![R U META Logo](https://imgur.com/iM1oL0O)
+![R U META Logo](https://i.imgur.com/iM1oL0O.png)
 
 ## Intro statement
 
