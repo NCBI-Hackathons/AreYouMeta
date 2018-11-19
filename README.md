@@ -8,6 +8,9 @@ https://www.u-hackmed.org/2018teams/team-8
 
 ![R U META Logo](https://i.imgur.com/mQ2mYQU.png)
 
+
+![High_vs_low](imgs/High_vs_Low_DeepDream.png)
+
 [UHackMed Team 8 - Pitch](https://drive.google.com/open?id=13azk4OOLj6jfrHkqbWzMNEnZKWH5yre-ZIDeknvcuvI)
  
 ## Watching Melanoma Dynamics
