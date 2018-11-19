@@ -10,7 +10,7 @@ https://www.u-hackmed.org/2018teams/team-8
 
 [UHackMed Team 8 - Pitch](https://drive.google.com/open?id=13azk4OOLj6jfrHkqbWzMNEnZKWH5yre-ZIDeknvcuvI)
  
-## What's the problem?
+## Watching Melanoma Dynamics
 
 [![MELANOMA VIDEO](http://img.youtube.com/vi/znIrWNc_i2s/0.jpg)](http://www.youtube.com/watch?v=znIrWNc_i2s "Test")
 
