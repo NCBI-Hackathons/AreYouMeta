@@ -18,14 +18,7 @@ https://www.u-hackmed.org/2018teams/team-8
 
 # What is RU-Meta?
 
-# How to use <this software>
-
-## Run xxx
-
-# Software Workflow Diagram
-
-# File structure diagram 
-#### _Define paths, variable names, etc_
+# How to use RU-Meta
 
 ### Installing RU-Meta from Github
 
