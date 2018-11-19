@@ -16,11 +16,7 @@ https://www.u-hackmed.org/2018teams/team-8
 
 ## 
 
-## Why should we solve it?
-
-# What is <this software>?
-
-Overview Diagram
+# What is RU-Meta?
 
 # How to use <this software>
 
@@ -31,20 +27,9 @@ Overview Diagram
 # File structure diagram 
 #### _Define paths, variable names, etc_
 
-### Installing <this software> from Github
+### Installing RU-Meta from Github
 
-1. `git clone https://github.com/NCBI-Hackathons/<this software>.git`
-2. Edit the configuration files as below
-3. `sh server/<this software>.sh` to test
-4. Add cron job as required (to execute <this software>.sh script)
-
-### Configuration
-
-```Examples here```
-
-# Testing
-
-We tested four different tools with <this software>. They can be found in [server/tools/](server/tools/) . 
+1. `git clone https://github.com/NCBI-Hackathons/AreYouMeta.git`
 
   
 
