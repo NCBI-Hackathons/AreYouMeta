@@ -2,12 +2,19 @@
 
 #### We developed an assay that can differentiate between melanoma cells with high and low metastatic properties!
 
+https://www.u-hackmed.org/2018teams/team-8
+
 ## Awesome Logo
+
 ![R U META Logo](https://i.imgur.com/mQ2mYQU.png)
 
-## Intro statement
+[UHackMed Team 8 - Pitch](https://drive.google.com/open?id=13azk4OOLj6jfrHkqbWzMNEnZKWH5yre-ZIDeknvcuvI)
+ 
+## Watching Melanoma Dynamics
 
-## What's the problem?
+[![MELANOMA VIDEO](http://img.youtube.com/vi/znIrWNc_i2s/0.jpg)](http://www.youtube.com/watch?v=znIrWNc_i2s "Test")
+
+## 
 
 ## Why should we solve it?
 
