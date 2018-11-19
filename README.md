@@ -1,13 +1,10 @@
 # Are You Meta? 
 
+![R U META Logo](https://i.imgur.com/mQ2mYQU.png)
+
 #### We developed an assay that can differentiate between melanoma cells with high and low metastatic properties!
 
 https://www.u-hackmed.org/2018teams/team-8
-
-## Awesome Logo
-
-![R U META Logo](https://i.imgur.com/mQ2mYQU.png)
-
 
 ![High_vs_low](imgs/High_vs_Low_DeepDream.png)
 
