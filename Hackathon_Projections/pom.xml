@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+		http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>org.scijava</groupId>
+		<artifactId>pom-scijava</artifactId>
+		<version>14.0.0</version>
+	<relativePath />
+	</parent>
+	
+
+	<name>plugins/Hackathon_Projections.jar</name>
+	<description>A plugin for projecting tiff dataset containing metastatic breast cancer cells. Generates min, max and std projection.</description>
+	<url>https://github.com/NCBI-Hackathons/AreYouMeta</url>
+	<inceptionYear>2017</inceptionYear>
+	
+	<licenses>
+		<license>
+			<name>GNU General Public Licence v3.0</name>
+		</license>
+	</licenses>
+
+	<developers>
+		<developer>
+			<id>DaetwylerStephan</id>
+			<name>Stephan Daetwyler </name>
+		</developer>
+	</developers>
+
+	<contributors>
+		<contributor>
+			<name>UTSW Hackathon</name>
+		</contributor>
+	</contributors>
+
+	<scm>
+		<connection>scm:git:git://github.com/NCBI-Hackathons/AreYouMeta</connection>
+	</scm>
+
+	<mailingLists>
+		<mailingList>
+			<name> None</name>
+		</mailingList>
+	</mailingLists>
+	
+	<issueManagement>
+		<url> https://github.com/NCBI-Hackathons/AreYouMeta</url>
+	</issueManagement>
+	<ciManagement>
+		<system>None</system>
+	</ciManagement>
+	
+	<properties>
+		<license.licenseName>GNU v3</license.licenseName>
+	</properties>
+
+	<dependencies>
+		<dependency>
+			<groupId>net.imagej</groupId>
+			<artifactId>ij</artifactId>
+			
+		</dependency>
+		<dependency>
+			<groupId>sc.fiji</groupId>
+			<artifactId>fiji-lib</artifactId>
+		</dependency>
+		<dependency>
+			<!-- NB: dependency:analyze erroneously flags this, but it's required -->
+			<groupId>sc.fiji</groupId>
+			<artifactId>legacy-imglib1</artifactId>
+		</dependency>
+		
+	</dependencies>
+
+	<!-- NB: for project parent -->
+	<repositories>
+		<repository>
+			<id>imagej.releases</id>
+			<url>http://maven.imagej.net/content/repositories/releases</url>
+		</repository>
+		<repository>
+			<id>imagej.snapshots</id>
+			<url>http://maven.imagej.net/content/repositories/snapshots</url>
+		</repository>
+	</repositories>
+
+	<artifactId>Hackathon_Projections</artifactId>
+	<organization>
+		<name>UTSW- uhackmed</name>
+	</organization>
+	<version>1.0.0</version>
+</project>
