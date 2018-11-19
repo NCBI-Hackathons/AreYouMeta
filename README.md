@@ -7,6 +7,7 @@
 https://www.u-hackmed.org/2018teams/team-8
 
 ![High_vs_low](imgs/High_vs_Low_DeepDream.png)
+![Projection](imgs/projectionFrames.png)
 
 [UHackMed Team 8 - Pitch](https://drive.google.com/open?id=13azk4OOLj6jfrHkqbWzMNEnZKWH5yre-ZIDeknvcuvI)
  
