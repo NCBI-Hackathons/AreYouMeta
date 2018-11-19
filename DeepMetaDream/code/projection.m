@@ -1,3 +1,6 @@
+by Mahmoud Elgenedy - Nov 2018
+
+
 proj_max = imageDatastore('/project/hackathon/hackers08/shared/matlab_data/','IncludeSubfolders',true,'LabelSource','foldernames');
 
 [proj_maxTrain,proj_maxValidation] = splitEachLabel(proj_max,0.7,'randomized');
