@@ -29,14 +29,14 @@ RU-Meta is an assay that can differentiate between melanoma cells with high and 
 ## Authors
 
 https://www.u-hackmed.org/2018teams/team-8
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+
+* [Andrew Jamieson](https://github.com/andrewjUTSW) - *Team Lead*
+* [Colin Brochtrup]
+* [Stephan Daetwyler](https://github.com/DaetwylerStephan)
+* [Mahmoud Elgenedy](https://github.com/melgenedy)
+* [Elizabeth Zou](https://github.com/wflms20110333)
+
 [UHackMed Team 8 - Pitch](https://drive.google.com/open?id=13azk4OOLj6jfrHkqbWzMNEnZKWH5yre-ZIDeknvcuvI)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
