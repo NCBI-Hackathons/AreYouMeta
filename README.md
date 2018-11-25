@@ -6,11 +6,11 @@ RU-Meta is an assay that can differentiate between melanoma cells with high and 
 
 ### Deep Dream Images of Cells with High vs. Low Metastatic Potentials
 
-<img src="imgs/High_vs_Low_DeepDream.png" width=400><br>
+<img src="imgs/High_vs_Low_DeepDream.png" width=600><br>
 
 ### Projection Frames
 
-![Projection](imgs/projectionFrames.png)
+<img src="imgs/projectionFrames.png" width=600><br>
 
 ### Watching Melanoma Dynamics
 
